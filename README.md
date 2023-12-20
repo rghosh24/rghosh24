@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I'm Rishi!
 
-- 🔭 I’m currently... pursuing a bachelor’s degree in Computer Science and a minor in Business at the University of Maryland.
+- 🔭 I’m currently... pursuing a bachelor’s degree in Computer Science and a minor in Business at the University of Maryland, College Park.
 
 - 👨🏽‍💻 Previously, I worked on... Earner Insights & Personalization at [Uber](https://www.uber.com) and monitoring for healthcare authorizations at [Centene](https://www.centene.com)
 
