@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I'm Rishi!
 
-- 💻 I’m currently a Software Engineer
+- 💻 Software Engineer
 
 - 📚 Bachelor’s degree in Computer Science and minor in Business at the [University of Maryland, College Park](https://umd.edu)
 
