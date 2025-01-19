@@ -2,7 +2,7 @@
 
 - 💻 I’m currently a Software Engineer
 
-- 📚 Bachelor’s degree in Computer Science and minor in Business at the University of Maryland, College Park
+- 📚 Bachelor’s degree in Computer Science and minor in Business at the [University of Maryland, College Park](https://umd.edu)
 
 - 👨🏽‍💻 I've worked on DOTCOM and Earner Insights & Personalization at [Uber](https://www.uber.com), monitoring for healthcare authorizations at [Centene](https://www.centene.com), and machine learning research associated with [Capital One](https://www.capitalone.com)
 
