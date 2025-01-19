@@ -10,6 +10,6 @@
 
 - 🤠 In my free time, I love working out and playing basketball & soccer
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rghosh24)
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/rghosh24)
 
 ### Learn more about me -> [My Portfolio](https://rishirajghosh.github.io)
