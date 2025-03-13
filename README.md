@@ -12,4 +12,4 @@
 
 - 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/rghosh24)
 
-## [Portfolio](https://rishirajghosh.github.io)
+### [Portfolio](https://rishirajghosh.github.io)
